@@ -1,1 +1,1 @@
-el ultimo prueva de aprendizaje con git remote subiendo al repositorio remoto
+modificando el git para subir al remote
